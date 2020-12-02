@@ -1,0 +1,20 @@
+Column3,Estimations
+"Spring protection treatment indicator Mean",2.9991559369302
+"Spring protection treatment indicator Mean(sd)",0.288523245894607
+"Spring protection treatment indicator S.D.",5.55741089912351
+"Spring protection treatment indicator S.D.(sd)",0.40520985541961
+"Treatment * mother education",0.649673905544175
+"Treatment * mother education(s.d.)",0.0662567558387996
+"Distance to source, minutes walk Mean",-0.219559996980059
+"Distance to source, minutes walk Mean(sd)",0.00998922079530568
+"Distance to source, minutes walk S.D.",0.219559996980059
+"Distance to source, minutes walk S.D.(sd)",0.00998922079530568
+"Source type: borehole/piped",-1.05456752032022
+"Source type: borehole/piped(s.d.)",0.139157218226532
+"Source type: well",-1.94268313716223
+"Source type: well(s.d.)",0.134012509494195
+"Source type: stream/river",-1.44293721011939
+"Source type: stream/river(s.d.)",0.14831521352493
+"Source type: lake/pond",-0.332745918533254
+"Source type: lake/pond(s.d.)",0.273790994636197
+"Number of observations",53427

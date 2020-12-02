@@ -1,0 +1,20 @@
+Column2,Estimations
+"Spring protection treatment indicator Mean",3.16306439804595
+"Spring protection treatment indicator Mean(sd)",0.234450864318489
+"Spring protection treatment indicator S.D.",5.70147120637756
+"Spring protection treatment indicator S.D.(sd)",0.290510710180817
+"Treatment * diarrhea prevention",1.08028520229349
+"Treatment * diarrhea prevention(s.d.)",0.104043733974901
+"Distance to source, minutes walk Mean",-0.219550362463534
+"Distance to source, minutes walk Mean(sd)",0.00955899433454907
+"Distance to source, minutes walk S.D.",0.219550362463534
+"Distance to source, minutes walk S.D.(sd)",0.00955899433454907
+"Source type: borehole/piped",-1.04652209274117
+"Source type: borehole/piped(s.d.)",0.135856401542866
+"Source type: well",-1.9543348942388
+"Source type: well(s.d.)",0.130520595819035
+"Source type: stream/river",-1.38679238293261
+"Source type: stream/river(s.d.)",0.141291291515689
+"Source type: lake/pond",-0.312643219700168
+"Source type: lake/pond(s.d.)",0.272979434259727
+"Number of observations",53427
