@@ -1,0 +1,25 @@
+%TCIMACRO{\TeXButton{B}{\begin{table}[tbp] \centering}}
+%BeginExpansion
+\begin{table}[tbp] \centering
+\newcolumntype{C}{>{\centering\arraybackslash}X}
+
+%EndExpansion
+{\tiny
+\begin{tabularx}{\textwidth}{lCCCCCC}
+
+\toprule
+{}&{95 percentile}&{96 percentile}&{97 percentile}&{98 percentile}&{99 percentile}&{Max} \tabularnewline
+\midrule\addlinespace[1.5ex]
+Fig 3, Manipulation ~ N(0,100)&0.01\%&0.01\%&0.01\%&0.01\%&0.02\%&1.30\% \tabularnewline
+\midrule Fig S4 Panel A, Manipulation ~ N(0,1000)&0.01\%&0.01\%&0.01\%&0.01\%&0.02\%&0.23\% \tabularnewline
+\midrule Fig S4 Panel B, Manipulation ~ U(0,100)&0.01\%&0.01\%&0.02\%&0.02\%&0.02\%&1.89\% \tabularnewline
+\midrule Fig S4 Panel CManipulation ~ U(-100,0)&0.01\%&0.01\%&0.01\%&0.01\%&0.02\%&0.56\% \tabularnewline
+\midrule 
+\bottomrule \addlinespace[1.5ex]
+
+\end{tabularx}
+}
+%TCIMACRO{\TeXButton{E}{\end{table}}}%
+%BeginExpansion
+\end{table}
+%EndExpansion

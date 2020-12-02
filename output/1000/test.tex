@@ -1,0 +1,32 @@
+%TCIMACRO{\TeXButton{B}{\begin{table}[tbp] \centering}}
+%BeginExpansion
+\begin{table}[tbp] \centering
+\newcolumntype{C}{>{\centering\arraybackslash}X}
+
+%EndExpansion
+\caption{Dependent variable: Incidence of Child Diarrhea in Past Week}
+{\tiny
+\begin{tabularx}{\textwidth}{lCCCCCC}
+
+\toprule
+&{(1)}&{(2)}&{(3)}&{(4)}&{(5)}&{(6)} \tabularnewline
+{}&{}&{}&{}&{}&{}&{Main} \tabularnewline
+\midrule\addlinespace[1.5ex]
+Treatment&-0.045***&-0.045***&-0.045***&-0.046***&-0.044***&-0.045*** \tabularnewline
+&(0.012)&(0.012)&(0.012)&(0.012)&(0.012)&(0.012) \tabularnewline
+Treatment * latrine density&&&-0.061&&&-0.046 \tabularnewline
+&&&(0.069)&&&(0.068) \tabularnewline
+Treatment * diarrhea prevention&&&&-0.012***&&-0.010** \tabularnewline
+&&&&(0.004)&&(0.004) \tabularnewline
+Treatment * mother's education&&&&&-0.007**&-0.006* \tabularnewline
+&&&&&(0.003)&(0.003) \tabularnewline
+\midrule Observations&6,750&6,750&6,750&6,750&6,742&6,742 \tabularnewline
+Mean of dependent variable in comparison group&.193&.193&.193&.193&.193&.193 \tabularnewline
+\bottomrule \addlinespace[1.5ex]
+
+\end{tabularx}
+}
+%TCIMACRO{\TeXButton{E}{\end{table}}}%
+%BeginExpansion
+\end{table}
+%EndExpansion
