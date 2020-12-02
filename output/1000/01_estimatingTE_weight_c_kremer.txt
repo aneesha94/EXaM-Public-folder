@@ -1,0 +1,36 @@
+	(1)	(2)	(3)	(4)	(5)
+VARIABLES	Col 1	Col 3	Col 4/7/9	Col 5/8/10	Col 6
+					
+ba_tc	0.868***	0.062	0.065	0.093	0.040
+	(0.112)	(0.076)	(0.075)	(0.100)	(0.123)
+year_two_three		0.048	0.048	0.047	0.057
+		(0.075)	(0.073)	(0.073)	(0.073)
+ba_tc_hygiene_know_base					-0.008
+					(0.027)
+ba_tc_latrine_density_base					-0.672*
+					(0.358)
+ba_tc_boilh2oyester_base					-0.041
+					(0.132)
+ba_tc_numkids_base					0.002
+					(0.022)
+ba_tc_momeduc_base					-0.012
+					(0.019)
+ba_tc_e1_iron_roof_base					0.031
+					(0.131)
+ba_tc_iron_roof_density_base					0.482
+					(0.294)
+age_combo_years			0.950***	0.942***	0.946***
+			(0.105)	(0.106)	(0.105)
+age_combo_yrs2			-0.136***	-0.136***	-0.137***
+			(0.015)	(0.015)	(0.015)
+boy_age			-0.205*	-0.189	-0.209*
+			(0.111)	(0.124)	(0.112)
+boy_age2			0.033*	0.032*	0.034*
+			(0.019)	(0.019)	(0.019)
+ba_tc_boy				-0.054	
+				(0.121)	
+					
+Observations	5,807	5,807	5,736	5,736	5,696
+R-squared	0.013	0.838	0.848	0.848	0.848
+Mean of dependent variable in comparison group	11.361	11.361	11.361	11.361	11.361
+Number of _c_id		2,823	2,773	2,773	2,752

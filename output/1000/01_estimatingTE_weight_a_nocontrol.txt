@@ -1,0 +1,17 @@
+Dependent Variable: Child weight in kg							
+		(1)	(2)	(3)	(4)	(5)	(6)
+VARIABLES	LABELS					Main	Main
+							
+ba_tc	Treatment	0.868***	0.866***	0.869***	0.862***	0.859***	3.489***
+		(0.112)	(0.111)	(0.112)	(0.113)	(0.113)	(0.070)
+ba_tc_latrine_density_base	Treatment * latrine density		-0.515			-0.510	-0.564
+			(0.535)			(0.521)	(0.460)
+ba_tc_hygiene_know_base	Treatment * diarrhea prevention			0.015		0.002	0.002
+				(0.046)		(0.046)	(0.031)
+ba_tc_momeduc_base	Treatment * mother's education				0.052**	0.052**	-0.001
+					(0.026)	(0.026)	(0.023)
+							
+Observations		5,807	5,807	5,807	5,803	5,803	5,803
+Mean of dependent variable in comparison group		11.361	11.361	11.361	11.361	11.361	11.361
+Number of _c_id							2,821
+Child FE							Yes

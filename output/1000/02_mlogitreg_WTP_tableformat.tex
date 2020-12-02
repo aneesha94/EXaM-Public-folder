@@ -1,0 +1,46 @@
+%TCIMACRO{\TeXButton{B}{\begin{table}[tbp] \centering}}
+%BeginExpansion
+\begin{table}[tbp] \centering
+\newcolumntype{C}{>{\centering\arraybackslash}X}
+
+%EndExpansion
+{\tiny
+\begin{tabularx}{\textwidth}{lCCCC}
+
+\toprule
+&{(1)}&{(2)}&{(3)}&{(4)} \tabularnewline
+{Column1}&{Estimations}&{Estimations}&{Estimations}&{Main} \tabularnewline
+\midrule\addlinespace[1.5ex]
+Sping protection treatment indicator (Normal)&&&& \tabularnewline
+Mean&2.205***&3.163***&2.999***&3.516*** \tabularnewline
+&(0.213)&(0.234)&(0.289)&(0.308) \tabularnewline
+Standard Deviation&5.426***&5.701***&5.557***&5.741*** \tabularnewline
+&(0.298)&(0.291)&(0.405)&(0.305) \tabularnewline
+Treatment * latrine density&7.533***&&&2.751*** \tabularnewline
+&(0.939)&&&(1.178) \tabularnewline
+Treatment * diarrhea prevention&&1.080***&&0.565*** \tabularnewline
+&&(0.104)&&(0.094) \tabularnewline
+Treatment * mother education&&&0.650***&0.608*** \tabularnewline
+&&&(0.066)&(0.069) \tabularnewline
+Distance to source, minutes walk (Restrcited triangular)&&&& \tabularnewline
+Mean&-0.222***&-0.220***&-0.220***&-0.221*** \tabularnewline
+&(0.010)&(0.010)&(0.010)&(0.010) \tabularnewline
+Standard Deviation&0.222***&0.220***&0.220***&0.221*** \tabularnewline
+&(0.010)&(0.010)&(0.010)&(0.010) \tabularnewline
+Source type: borehole/piped&-1.079***&-1.047***&-1.055***&-1.053*** \tabularnewline
+&(0.135)&(0.136)&(0.139)&(0.133) \tabularnewline
+Source type: well&-1.924***&-1.954***&-1.943***&-1.944*** \tabularnewline
+&(0.137)&(0.131)&(0.134)&(0.131) \tabularnewline
+Source type: stream/river&-1.422***&-1.387***&-1.443***&-1.393*** \tabularnewline
+&(0.144)&(0.141)&(0.148)&(0.143) \tabularnewline
+Source type: lake/pond&-0.312&-0.313&-0.333&-0.299 \tabularnewline
+&(0.269)&(0.273)&(0.274)&(0.406) \tabularnewline
+\midrule \midrule Number of observations&53,427&53,427&53,427&53,427 \tabularnewline
+\bottomrule \addlinespace[1.5ex]
+
+\end{tabularx}
+}
+%TCIMACRO{\TeXButton{E}{\end{table}}}%
+%BeginExpansion
+\end{table}
+%EndExpansion
