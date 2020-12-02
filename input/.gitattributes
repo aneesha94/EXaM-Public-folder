@@ -1,0 +1,2 @@
+*.dta filter=lfs diff=lfs merge=lfs -text
+reg_data_children_Aug2010.dta filter=lfs diff=lfs merge=lfs -text
