@@ -1,4 +1,4 @@
-This folder contains the replication files for the paper "Experiment as a Market Design" authored by Yusuke Narita. 
+This folder contains the replication files for the paper Incorporating Ethics and Welfare into Randomized Trials authored by Yusuke Narita. 
 
 The code folder contains all the code required for replication. It contains Stata do files, Python files and 
 matlab files. To see how to replicate, please refer to the instructions in 00_master.do located in the code 
