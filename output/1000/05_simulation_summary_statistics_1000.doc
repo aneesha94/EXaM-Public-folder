@@ -1,0 +1,36 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx10944\clbrdrt\brdrs\cellx12096\clbrdrt\brdrs\cellx13248\clbrdrt\brdrs\cellx14400\clbrdrt\brdrs\cellx15840\clbrdrt\brdrs\cellx16992
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\qc (5)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx10944\cellx12096\cellx13248\cellx14400\cellx15840\cellx16992
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx10944\clbrdrb\brdrs\cellx12096\clbrdrb\brdrs\cellx13248\clbrdrb\brdrs\cellx14400\clbrdrb\brdrs\cellx15840\clbrdrb\brdrs\cellx16992
+\ql VARIABLES\cell\qc mean\cell\qc p25\cell\qc p50\cell\qc p75\cell\qc sd\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx10944\cellx12096\cellx13248\cellx14400\cellx15840\cellx16992
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql TE Measured by % Reduction in Child Diarrhea (all)\cell\qc 4.461\cell\qc 2.099\cell\qc 4.690\cell\qc 6.698\cell\qc 3.389\cell\row
+\ql TE Measured by % Reduction in Child Diarrhea (dia)\cell\qc 4.117\cell\qc 4.505\cell\qc 4.613\cell\qc 4.613\cell\qc 0.944\cell\row
+\ql TE Measured by % Reduction in Child Diarrhea (edu)\cell\qc 4.359\cell\qc 3.178\cell\qc 4.583\cell\qc 5.988\cell\qc 2.453\cell\row
+\ql TE Measured by % Reduction in Child Diarrhea (lat)\cell\qc 4.580\cell\qc 4.443\cell\qc 4.595\cell\qc 4.746\cell\qc 0.187\cell\row
+\ql TE Measured by Change in Child Weight (kg) (all)\cell\qc 0.859\cell\qc 0.747\cell\qc 0.867\cell\qc 0.982\cell\qc 0.194\cell\row
+\ql TE Measured by Change in Child Weight (kg) (dia)\cell\qc 0.901\cell\qc 0.859\cell\qc 0.859\cell\qc 0.868\cell\qc 0.0798\cell\row
+\ql TE Measured by Change in Child Weight (kg) (edu)\cell\qc 0.862\cell\qc 0.774\cell\qc 0.879\cell\qc 0.983\cell\qc 0.182\cell\row
+\ql TE Measured by Change in Child Weight (kg) (lat)\cell\qc 0.869\cell\qc 0.868\cell\qc 0.870\cell\qc 0.871\cell\qc 0.00224\cell\row
+\ql TE Measured by Change in Child BMI (kg/m{superscript:2)} (all)\cell\qc -0.316\cell\qc -0.340\cell\qc -0.313\cell\qc -0.291\cell\qc 0.0345\cell\row
+\ql TE Measured by Change in Child BMI (kg/m{superscript:2)} (dia)\cell\qc -0.320\cell\qc -0.314\cell\qc -0.312\cell\qc -0.312\cell\qc 0.0151\cell\row
+\ql TE Measured by Change in Child BMI (kg/m{superscript:2)} (edu)\cell\qc -0.315\cell\qc -0.320\cell\qc -0.314\cell\qc -0.309\cell\qc 0.00904\cell\row
+\ql TE Measured by Change in Child BMI (kg/m{superscript:2)} (lat)\cell\qc -0.315\cell\qc -0.317\cell\qc -0.315\cell\qc -0.314\cell\qc 0.00184\cell\row
+\ql WTP Measured by Time Cost of Water Collection (Unit: Workdays) (all)\cell\qc 29.18\cell\qc -4.683\cell\qc 21.07\cell\qc 50.53\cell\qc 108.9\cell\row
+\ql WTP Measured by Time Cost of Water Collection (Unit: Workdays) (dia)\cell\qc 27.28\cell\qc -6.212\cell\qc 18.48\cell\qc 47.83\cell\qc 167.8\cell\row
+\ql WTP Measured by Time Cost of Water Collection (Unit: Workdays) (edu)\cell\qc 26.70\cell\qc -6.572\cell\qc 18.16\cell\qc 46.02\cell\qc 137.2\cell\row
+\ql WTP Measured by Time Cost of Water Collection (Unit: Workdays) (lat)\cell\qc 16.52\cell\qc -11.22\cell\qc 12.85\cell\qc 37.61\cell\qc 67.52\cell\row
+\ql WTP Measured by Time Cost of Water Collection (Unit: USD of Time Valuation)\cell\qc 2.534\cell\qc -0.410\cell\qc 1.833\cell\qc 4.403\cell\qc 9.522\cell\row
+\ql WTP Measured by Time Cost of Water Collection (Unit: USD of Time Valuation)\cell\qc 2.377\cell\qc -0.550\cell\qc 1.640\cell\qc 4.195\cell\qc 14.37\cell\row
+\ql WTP Measured by Time Cost of Water Collection (Unit: USD of Time Valuation)\cell\qc 2.339\cell\qc -0.584\cell\qc 1.602\cell\qc 4.054\cell\qc 12.30\cell\row
+\ql WTP Measured by Time Cost of Water Collection (Unit: USD of Time Valuation)\cell\qc 1.452\cell\qc -0.986\cell\qc 1.137\cell\qc 3.307\cell\qc 5.968\cell\row
+\ql WTP Measured by Time Cost of Water Collection (unit: USD of Time Valuation\cell\qc 10.41\cell\qc -1.670\cell\qc 7.515\cell\qc 18.03\cell\qc 38.85\cell\row
+\ql WTP Measured by Time Cost of Water Collection (unit: USD of Time Valuation\cell\qc 9.733\cell\qc -2.216\cell\qc 6.592\cell\qc 17.06\cell\qc 59.88\cell\row
+\ql WTP Measured by Time Cost of Water Collection (unit: USD of Time Valuation\cell\qc 9.523\cell\qc -2.344\cell\qc 6.480\cell\qc 16.42\cell\qc 48.93\cell\row
+\ql WTP Measured by Time Cost of Water Collection (unit: USD of Time Valuation\cell\qc 5.894\cell\qc -4.003\cell\qc 4.583\cell\qc 13.42\cell\qc 24.09\cell\row
+\ql n\cell\qc 770,001\cell\qc 385,001\cell\qc 770,001\cell\qc 1.155e+06\cell\qc 444,560\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx10944\clbrdrb\brdrs\cellx12096\clbrdrb\brdrs\cellx13248\clbrdrb\brdrs\cellx14400\clbrdrb\brdrs\cellx15840\clbrdrb\brdrs\cellx16992
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+}
